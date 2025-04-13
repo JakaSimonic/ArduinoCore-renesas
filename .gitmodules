@@ -19,3 +19,6 @@
 [submodule "libraries/WiFi/extra/esptool"]
 	path = libraries/WiFi/extra/esptool
 	url = https://github.com/espressif/esptool.git
+[submodule "ffb"]
+	path = ffb
+	url = git@github.com:JakaSimonic/ForceFeedback-core-library.git
